@@ -31,7 +31,7 @@ https://xxxx.ngrok-free.app/webhook
 Copier .env.example en .env et remplir :
 TWILIO_ACCOUNT_SID=your_sid
 TWILIO_AUTH_TOKEN=your_token
-TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
+TWILIO_WHATSAPP_NUMBER=whatsapp:+141........
 
 ## Auteur
 
